@@ -1,0 +1,12 @@
+button{
+    margin-right: 5px;
+    padding: 10px;
+    border-radius: 9pt;
+    background: linear-gradient(to bottom,#cc99ff,#ff66ff);
+}
+body{
+    background: linear-gradient(to right, RGB(110, 175, 233), lightblue);
+}
+.score{
+    color: red;
+}
