@@ -1,0 +1,11 @@
+body{
+  background:linen;
+}
+.button{
+  display: inline-block;
+  margin-right: 5px;
+  padding: 10px 30px;
+  border-radius: 2em;
+  color:yellow;
+  background: mediumvioletred;
+}
